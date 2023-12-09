@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(26, 26, 26);
+}
+
+#headingh1 {
+    font-size: 10vb;
+    color: rgb(0, 209, 45);
+    text-align: center;
+}
+
+#musich2 {
+    font-size: 4vb;
+    color: rgba(34, 153, 101, 0.995);
+    text-align: center;
+}
+
+.profile img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    align-items: center;
+    border-radius: 20%;
+    margin-top: 10%;
+}
+
+.singerName {
+    text-align: center;
+    font-size: 5vb;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+.listSAV
+{
+    text-align: center;
+    margin: 35px;
+}
+.listSAV div
+{
+    text-align: center;
+    margin-top: 5%;
+}
